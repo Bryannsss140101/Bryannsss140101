@@ -2,14 +2,14 @@
 
 Welcome to my profile! Here I share projects and code related to my passion for **game-dev**, **computer science** and **math's**.
 
-### 🚀 What I do?
+<!-- ### 🚀 What I do?
 
 -  with [mention the technologies or languages you use, e.g., Python, JavaScript, etc.]
 - I love learning about [mention areas you're interested in, like web development, data analysis, machine learning, etc.]
 - I work with [tools and platforms you use, like Git, Docker, Kubernetes, etc.]
-- Contribute to open-source projects and personal development.
+- Contribute to open-source projects and personal development.-->
 
-### 💻 Technologies and Tools
+### 💻 Technologies and Tools]
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,7 +23,7 @@ Welcome to my profile! Here I share projects and code related to my passion for 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-## 🌱 Currently learning
+<!-- ## 🌱 Currently learning
 
 - [Mention technologies or concepts you're currently learning, like "Mobile app development with Flutter" or "Deep Learning"]
 
@@ -37,3 +37,4 @@ Welcome to my profile! Here I share projects and code related to my passion for 
 - **LinkedIn**: [your LinkedIn link]
 - **Twitter**: [your Twitter link]
 - **Portfolio**: [link to your personal portfolio]
+-->
