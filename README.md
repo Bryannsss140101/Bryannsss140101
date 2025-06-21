@@ -9,7 +9,7 @@ Welcome to my profile! Here I share projects and code related to my passion for 
 - I work with [tools and platforms you use, like Git, Docker, Kubernetes, etc.]
 - Contribute to open-source projects and personal development.-->
 
-### ⚙️ Technological Tools
+## ⚙️ Technological Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
