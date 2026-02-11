@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryannsss
 
-Welcome to my profile! Here I share projects and code related to my passion for **game-dev**, **computer science** and **math's**.
+Welcome to my profile! Here I share projects and code related to my passion for **science**, **programming** and **physics/mathematics**.
 
 <!-- ### 🚀 What I do?
 
