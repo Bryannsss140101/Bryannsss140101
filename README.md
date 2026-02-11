@@ -4,16 +4,6 @@ My goal is to build a strong foundation for advanced engineering and scientific 
 
 ---
 
-## 🧠 Research & Technical Interests
-
-- Rendering systems and computer graphics
-- Physics simulation and numerical methods
-- Artificial intelligence and algorithm design
-- Performance optimization and memory-efficient architectures
-- Engine-level and low-level programming
-
----
-
 ## ⚙️ Core Technologies
 ### `Programming Languages`
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
