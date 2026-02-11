@@ -43,4 +43,4 @@ My goal is to build a strong foundation for advanced engineering and scientific 
 ## 📚 Technical Documentation
 I document my learning process, research notes, and engineering experiments on my website:
 
-🔗 **https://bryannsss140101.github.io/demonstration/**
+🔗 **https://bryannsss140101.github.io/Technical-Documentation/**
