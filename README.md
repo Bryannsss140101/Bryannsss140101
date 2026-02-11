@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bryannsss
+# 👋 Hi, I'm Bryan
 
 Welcome to my profile! Here I share projects and code related to my passion for **science**, **programming** and **physics/mathematics**.
 
