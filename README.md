@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Bryan
+<h1 align="center">
+  Hi, I'm Bryan 👋
+</h1>
+
 I am a computer science student focused on **low-level systems, graphics programming, simulation, and AI**, working at the intersection of **computer science, physics, and mathematics**.
 My goal is to build a strong foundation for advanced engineering and scientific research in computational systems.
 
 ---
 
 ## ⚙️ Core Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryannsss140101&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryannsss140101&layout=compact&theme=dark" height="150"/>
+</p>
+
 ### `Programming Languages`
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
